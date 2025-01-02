@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    overflow: hidden;
+    height: 300px; /* Fit the top, center, and bottom lines */
+  }
+  
+  .line {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    font-size: 21px; /* Base font size for all lines */
+    opacity: 0;
+    transform: translateY(100px) scale(0.9); /* Slightly smaller off-center */
+    transition: opacity 0.5s ease, transform 0.5s ease; /* Smooth fade and move */
+  }
+  
+  .line.center {
+    opacity: 1;
+    transform: translateY(150px) scale(1); /* Fully visible and full size at center */
+    font-weight: bold;
+  }
+  
+  .line.top {
+    opacity: 0.5; /* Top line with reduced visibility */
+    transform: translateY(75px) scale(0.8); /* Slightly smaller */
+  }
+  
+  .line.bottom {
+    opacity: 0.5; /* Bottom line with reduced visibility */
+    transform: translateY(225px) scale(0.8); /* Slightly smaller */
+  }
+  
+  .line.hidden {
+    opacity: 0;
+    transform: translateY(300px) scale(0.7); /* Hidden lines fade and shrink */
+  }
+  
+  .bold {
+    font-style: italic;
+  }
+  
