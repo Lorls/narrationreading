@@ -1,4 +1,4 @@
-const lines = [
+const lines1 = [
     "La porte de l’appartement s’ouvrit doucement, et Summer entra, fatiguée mais radieuse.",
     "Aleksandr était déjà là, installé dans le salon, un verre de bourbon à la main, son cahier ouvert devant lui.",
     "Elle posa son sac avec soin, observant l’homme qui semblait absorbé par ses pensées.",
@@ -44,6 +44,42 @@ const lines = [
     "**\"Un jour, Madame Kief,\"** dit-il calmement, **\"mais pas encore.\"**",
     "Elle ne répondit pas, se détournant avec un dernier regard appuyé, laissant la tension flotter dans l’air, aussi palpable que leur désir inassouvi."
   ];
+
+const lines = [
+    "Aleksandr gara sa voiture devant chez lui, jetant un regard rapide vers le siège passager où Cameron ajustait son sac sur son épaule.",
+    "Elle lui adressa un sourire, un de ces sourires énigmatiques qui semblaient toujours cacher plus qu’ils ne montraient.",
+    "**\"Bonne nuit, Aleksandr,\"** dit-elle doucement avant de descendre, ses mots laissant une étrange chaleur dans l’habitacle,",
+    "un écho qui résonna bien après qu’elle ait fermé la portière.",
+    "Il la regarda entrer dans la maison, son esprit déjà embrouillé par tout ce qu’elle avait dit l'autre soir.",
+    "Ces mots, prononcés comme une confidence : **\"Tu es le seul homme qui m'attire.\"**",
+    "Une phrase simple, mais qui portait un poids qu’il n’arrivait pas à ignorer.",
+    "",
+    "Aleksandr prit la direction du motel. Ce même endroit miteux où il avait laissé Noah plus tôt,",
+    "cherchant un refuge temporaire loin des complexités de sa propre vie.",
+    "Une fois arrivé, il poussa la porte de la chambre sans prêter attention à l’état des lieux.",
+    "Les draps étaient usés, l’air chargé d’une odeur de renfermé, mais il n’était pas là pour le confort.",
+    "",
+    "Il s’allongea sur le lit, le regard fixé sur le plafond, et laissa ses pensées vagabonder.",
+    "Les discussions de ces deux derniers jours tournaient en boucle dans son esprit.",
+    "Cameron et Heather, deux femmes aux personnalités intenses, liées par un passé complexe et un amour semé d’embûches.",
+    "Il avait senti la tension entre elles, cette jalousie palpable, et pourtant quelque chose d’indéfinissable semblait toujours les rapprocher.",
+    "",
+    "Mais plus il essayait de comprendre leur histoire, plus son esprit revenait à Cameron.",
+    "Sa voix, ses regards, ces instants où elle semblait s’ouvrir, mais seulement juste assez pour le troubler.",
+    "Elle était un mystère, un mélange de force et de vulnérabilité, et maintenant, elle faisait partie de son quotidien.",
+    "DRH du concessionnaire qu’elle tenait avec Heather, il n’aurait pas d’autre choix que de la côtoyer régulièrement.",
+    "",
+    "Aleksandr soupira, passant une main sur son visage.",
+    "Il n’avait jamais aimé les complications, mais il semblait les attirer malgré lui.",
+    "Cameron l’attirait, c’était un fait qu’il ne pouvait plus nier.",
+    "Et ces mots qu’elle avait laissés flotter entre eux... étaient-ils un jeu, une vérité, ou un piège dans lequel il se laissait tomber volontairement ?",
+    "",
+    "Il tourna la tête sur l’oreiller, ses pensées toujours embrouillées.",
+    "Le poids de cette situation, de ce qu’elle signifiait, et de ce qu’elle pourrait devenir, l’empêchait de trouver le sommeil.",
+    "Perdu entre la raison et le désir, Aleksandr resta immobile, son regard fixant un point invisible dans l’obscurité de la chambre miteuse,",
+    "avec une seule certitude : il n’avait pas fini de se perdre dans les histoires de Cameron."
+];
+
   
   const container = document.getElementById("text");
   let currentIndex = 0;
