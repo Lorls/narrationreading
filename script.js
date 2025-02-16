@@ -1,3 +1,58 @@
+const lines = [
+    "La nuit était déjà bien avancée lorsqu’Aleksandr quitta la plage, laissant derrière lui le bruit des vagues et l’odeur saline qui s’accrochait à ses vêtements.",
+    "Son trajet de retour fut silencieux, bercé par le ronronnement du moteur et le poids invisible de ses pensées.",
+    "**Mia.**",
+    "Il ne s’attendait pas à ce que cette soirée le marque autant.",
+    "Il s’était simplement dit qu’elle méritait mieux qu’un 14 février sans saveur, qu’il ne pouvait pas la laisser traverser cette journée sans un sourire sincère.",
+    "Mais les choses avaient pris une tournure plus intime, plus personnelle.",
+    "Elle avait été là pour lui, la seule à savoir.",
+    "La seule à comprendre ce qu’il ne voulait pas montrer aux autres.",
+    "En retour, il s’était assuré que cette nuit ne soit pas qu’un énième jour effacé par la routine.",
+    "Un ours en peluche, un bouquet de fleurs, un instant suspendu sur le sable…",
+    "C’était peu, et pourtant, ça avait semblé suffire.",
+    "",
+    "Et maintenant, alors qu’il roulait en fauteuil jusque chez lui, une sensation étrange s’installait en lui.",
+    "**Mia ne quittait pas ses pensées.**",
+    "Il repensait à cette histoire, ce deal absurde qu’elle avait évoqué avec légèreté.",
+    "Il n’aurait pas dû y accorder tant d’importance.",
+    "Ce n’était pas ses affaires, pas son rôle d’avoir un avis.",
+    "Pourtant, quelque chose en lui s’était crispé en l’entendant.",
+    "De la jalousie ? Il refusait d’y croire.",
+    "Ce n’était pas ça. C’était autre chose…",
+    "Une image brisée qu’il s’était inconsciemment faite d’elle, et qu’il avait dû reconstruire au fil de leur conversation.",
+    "",
+    "Mia était précieuse.",
+    "Pas seulement pour lui, mais en général.",
+    "Une femme en or, qui l’écoutait, qui prenait soin de lui,",
+    "qui savait être douce quand il en avait besoin et piquante quand il fallait le secouer.",
+    "Une femme intéressante, intelligente, ravissante.",
+    "**Une femme qui commençait à occuper une place trop grande dans son esprit.**",
+    "",
+    "Et puis, il repensa à leur éclat de rire.",
+    "Ils avaient parlé des danses.",
+    "Il lui avait dit qu’il ne paierait jamais pour une danse privée,",
+    "parce que lorsque cela arrivera, **elle le voudra tout autant que lui. Peut-être même bien plus.**",
+    "Une provocation lancée sur le ton de la plaisanterie, mais qu’il croyait un peu quand même.",
+    "C’était ce qui le faisait rire.",
+    "Parce que quelque part, l’idée ne lui semblait pas impossible.",
+    "",
+    "Il s’allongea dans son lit, fixant le plafond.",
+    "Son corps était fatigué, mais son esprit refusait de se reposer.",
+    "**Mia.**",
+    "Il s’étonnait lui-même de la récurrence de ce prénom dans ses pensées.",
+    "Était-ce seulement de la gratitude ?",
+    "Ou bien quelque chose de plus insidieux,",
+    "quelque chose qu’il n’était pas encore prêt à admettre ?",
+    "",
+    "Il souffla lentement, fermant les yeux, tentant de chasser ces questions.",
+    "Mais malgré lui, son esprit continua à s’attarder sur son sourire,",
+    "sur la lumière dans son regard lorsqu’elle avait pris ses cadeaux entre ses mains.",
+    "",
+    "**Ce soir, Mia resterait avec lui.**",
+    "Même dans son sommeil."
+];
+
+
 const lines1 = [
     "La porte de l’appartement s’ouvrit doucement, et Summer entra, fatiguée mais radieuse.",
     "Aleksandr était déjà là, installé dans le salon, un verre de bourbon à la main, son cahier ouvert devant lui.",
@@ -45,7 +100,7 @@ const lines1 = [
     "Elle ne répondit pas, se détournant avec un dernier regard appuyé, laissant la tension flotter dans l’air, aussi palpable que leur désir inassouvi."
   ];
 
-const lines = [
+const lines2 = [
     "Aleksandr gara sa voiture devant chez lui, jetant un regard rapide vers le siège passager où Cameron ajustait son sac sur son épaule.",
     "Elle lui adressa un sourire, un de ces sourires énigmatiques qui semblaient toujours cacher plus qu’ils ne montraient.",
     "**\"Bonne nuit, Aleksandr,\"** dit-elle doucement avant de descendre, ses mots laissant une étrange chaleur dans l’habitacle,",
